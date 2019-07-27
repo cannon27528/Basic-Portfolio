@@ -1,0 +1,15 @@
+h1 {
+  background-color: #4aaaa5;
+  color: #eeeeee
+}
+h2 {
+    background-color: #eeeeee;
+    color: #4aaaa5
+}
+body {
+  background-color: #eeeeee;
+}
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777
+}
