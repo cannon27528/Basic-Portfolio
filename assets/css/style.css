@@ -46,7 +46,7 @@ h4 {
 }
 body {
   position: relative;
-  min-height: 142.5vh
+  min-height: 142.5vh;
   margin: 0;
   padding: 0;
   background-color: #eeeeee;
